@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <title>Kontakt</title>
+</head>
+
+<body>
+    <header class="page__header">
+        <div class="logo__title">
+            <i class='bx bxs-crown'></i>
+            Warm<span class="title__icon">King</span>
+        </div>
+        <nav>
+            <ul class="nav__menu">
+                <li><a class="nav__links" href="index.html">Start</a></li>
+                <li><a class="nav__links" href="products.html">Produkter</a></li>
+                <li><a class="nav__links" href="contact.html">Kontakt</a></li>
+                <li><a class="nav__links" href="privacy.html">Policy</a></li>
+                <li><a class="nav__links" href="about.html">Om Oss</a></li>
+            </ul>
+        </nav>
+        <ul class="nav__icons__menu">
+            <li>
+                <a class="nav__icons" id="openMenu" href="#">
+                    <i class='bx bx-menu'></i>
+                </a>
+            </li>
+            <li>
+                <a class="nav__icons" id="closeMenu" href="#">
+                    <i class="bx bx-x"></i>
+                </a>
+            </li>
+        </ul>
+    </header>
+    <main class="contact__content">
+
+        <form class="form__container" action="https://formshow.systementor.se" method="post">
+            <h1>Kontakta oss</h1>
+            <div>
+                <input class="form__input" type="text" name="namn" placeholder="Ditt namn">
+            </div>
+            <div>
+                <input class="form__input" type="email" name="email" placeholder="E-post">
+            </div>
+            <div>
+                <input class="form__input" type="text" name="ärende" placeholder="Ärende">
+            </div>
+            <div>
+                <textarea class="form__input" type="textarea" name="meddelande" placeholder="Meddelande"></textarea>
+            </div>
+            <button class="contact__button" type="submit">Skicka in</button>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>

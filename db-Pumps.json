@@ -1,0 +1,604 @@
+{
+  "pumps": [
+    {
+      "name": "Miljöpump 1",
+      "description": "Beskrivning 1",
+      "price": 20183,
+      "instCost": 19429
+    },
+    {
+      "name": "Extrempump 2",
+      "description": "Beskrivning 2",
+      "price": 4304,
+      "instCost": 20155
+    },
+    {
+      "name": "Superpump 3",
+      "description": "Beskrivning 3",
+      "price": 8264,
+      "instCost": 14571
+    },
+    {
+      "name": "Automatisk pump 4",
+      "description": "Beskrivning 4",
+      "price": 15642,
+      "instCost": 15845
+    },
+    {
+      "name": "Ekonomisk pump 5",
+      "description": "Beskrivning 5",
+      "price": 8552,
+      "instCost": 25815
+    },
+    {
+      "name": "Superpump 6",
+      "description": "Beskrivning 6",
+      "price": 27240,
+      "instCost": 21687
+    },
+    {
+      "name": "Nukleär pump 7",
+      "description": "Beskrivning 7",
+      "price": 5526,
+      "instCost": 7673
+    },
+    {
+      "name": "Extrempump 8",
+      "description": "Beskrivning 8",
+      "price": 14628,
+      "instCost": 21448
+    },
+    {
+      "name": "Ekonomisk pump 9",
+      "description": "Beskrivning 9",
+      "price": 24605,
+      "instCost": 4856
+    },
+    {
+      "name": "Superpump 10",
+      "description": "Beskrivning 10",
+      "price": 18381,
+      "instCost": 7743
+    },
+    {
+      "name": "Miljöpump 11",
+      "description": "Beskrivning 11",
+      "price": 32851,
+      "instCost": 5410
+    },
+    {
+      "name": "Superpump 12",
+      "description": "Beskrivning 12",
+      "price": 4073,
+      "instCost": 28689
+    },
+    {
+      "name": "Ekonomisk pump 13",
+      "description": "Beskrivning 13",
+      "price": 21177,
+      "instCost": 17413
+    },
+    {
+      "name": "Superpump 14",
+      "description": "Beskrivning 14",
+      "price": 29694,
+      "instCost": 26792
+    },
+    {
+      "name": "Superpump 15",
+      "description": "Beskrivning 15",
+      "price": 9945,
+      "instCost": 22818
+    },
+    {
+      "name": "Extrempump 16",
+      "description": "Beskrivning 16",
+      "price": 16752,
+      "instCost": 12011
+    },
+    {
+      "name": "Miljöpump 17",
+      "description": "Beskrivning 17",
+      "price": 24781,
+      "instCost": 6442
+    },
+    {
+      "name": "Miljöpump 18",
+      "description": "Beskrivning 18",
+      "price": 32319,
+      "instCost": 21122
+    },
+    {
+      "name": "Extrempump 19",
+      "description": "Beskrivning 19",
+      "price": 7481,
+      "instCost": 22920
+    },
+    {
+      "name": "Ekonomisk pump 20",
+      "description": "Beskrivning 20",
+      "price": 12755,
+      "instCost": 13121
+    },
+    {
+      "name": "Superpump 21",
+      "description": "Beskrivning 21",
+      "price": 9726,
+      "instCost": 21738
+    },
+    {
+      "name": "Extrempump 22",
+      "description": "Beskrivning 22",
+      "price": 23518,
+      "instCost": 22396
+    },
+    {
+      "name": "Extrempump 23",
+      "description": "Beskrivning 23",
+      "price": 8057,
+      "instCost": 12140
+    },
+    {
+      "name": "Miljöpump 24",
+      "description": "Beskrivning 24",
+      "price": 13017,
+      "instCost": 7949
+    },
+    {
+      "name": "Miljöpump 25",
+      "description": "Beskrivning 25",
+      "price": 24354,
+      "instCost": 5895
+    },
+    {
+      "name": "Automatisk pump 26",
+      "description": "Beskrivning 26",
+      "price": 16623,
+      "instCost": 8462
+    },
+    {
+      "name": "Superpump 27",
+      "description": "Beskrivning 27",
+      "price": 18965,
+      "instCost": 11134
+    },
+    {
+      "name": "Automatisk pump 28",
+      "description": "Beskrivning 28",
+      "price": 14560,
+      "instCost": 21268
+    },
+    {
+      "name": "Ekonomisk pump 29",
+      "description": "Beskrivning 29",
+      "price": 6358,
+      "instCost": 4082
+    },
+    {
+      "name": "Nukleär pump 30",
+      "description": "Beskrivning 30",
+      "price": 29968,
+      "instCost": 21681
+    },
+    {
+      "name": "Superpump 31",
+      "description": "Beskrivning 31",
+      "price": 14487,
+      "instCost": 32226
+    },
+    {
+      "name": "Automatisk pump 32",
+      "description": "Beskrivning 32",
+      "price": 28009,
+      "instCost": 27020
+    },
+    {
+      "name": "Miljöpump 33",
+      "description": "Beskrivning 33",
+      "price": 15741,
+      "instCost": 11736
+    },
+    {
+      "name": "Superpump 34",
+      "description": "Beskrivning 34",
+      "price": 24174,
+      "instCost": 17775
+    },
+    {
+      "name": "Ekonomisk pump 35",
+      "description": "Beskrivning 35",
+      "price": 27554,
+      "instCost": 24442
+    },
+    {
+      "name": "Extrempump 36",
+      "description": "Beskrivning 36",
+      "price": 26937,
+      "instCost": 13051
+    },
+    {
+      "name": "Extrempump 37",
+      "description": "Beskrivning 37",
+      "price": 16210,
+      "instCost": 28392
+    },
+    {
+      "name": "Nukleär pump 38",
+      "description": "Beskrivning 38",
+      "price": 7404,
+      "instCost": 5007
+    },
+    {
+      "name": "Nukleär pump 39",
+      "description": "Beskrivning 39",
+      "price": 15962,
+      "instCost": 15042
+    },
+    {
+      "name": "Miljöpump 40",
+      "description": "Beskrivning 40",
+      "price": 7359,
+      "instCost": 4991
+    },
+    {
+      "name": "Nukleär pump 41",
+      "description": "Beskrivning 41",
+      "price": 27055,
+      "instCost": 15990
+    },
+    {
+      "name": "Nukleär pump 42",
+      "description": "Beskrivning 42",
+      "price": 9791,
+      "instCost": 7243
+    },
+    {
+      "name": "Nukleär pump 43",
+      "description": "Beskrivning 43",
+      "price": 19329,
+      "instCost": 16507
+    },
+    {
+      "name": "Miljöpump 44",
+      "description": "Beskrivning 44",
+      "price": 20556,
+      "instCost": 15354
+    },
+    {
+      "name": "Miljöpump 45",
+      "description": "Beskrivning 45",
+      "price": 17396,
+      "instCost": 15735
+    },
+    {
+      "name": "Ekonomisk pump 46",
+      "description": "Beskrivning 46",
+      "price": 33487,
+      "instCost": 11514
+    },
+    {
+      "name": "Extrempump 47",
+      "description": "Beskrivning 47",
+      "price": 17745,
+      "instCost": 10815
+    },
+    {
+      "name": "Ekonomisk pump 48",
+      "description": "Beskrivning 48",
+      "price": 24632,
+      "instCost": 20022
+    },
+    {
+      "name": "Superpump 49",
+      "description": "Beskrivning 49",
+      "price": 12819,
+      "instCost": 14341
+    },
+    {
+      "name": "Miljöpump 50",
+      "description": "Beskrivning 50",
+      "price": 29400,
+      "instCost": 11235
+    },
+    {
+      "name": "Ekonomisk pump 51",
+      "description": "Beskrivning 51",
+      "price": 30292,
+      "instCost": 11234
+    },
+    {
+      "name": "Nukleär pump 52",
+      "description": "Beskrivning 52",
+      "price": 24219,
+      "instCost": 28135
+    },
+    {
+      "name": "Miljöpump 53",
+      "description": "Beskrivning 53",
+      "price": 20353,
+      "instCost": 15459
+    },
+    {
+      "name": "Superpump 54",
+      "description": "Beskrivning 54",
+      "price": 8748,
+      "instCost": 9011
+    },
+    {
+      "name": "Nukleär pump 55",
+      "description": "Beskrivning 55",
+      "price": 8193,
+      "instCost": 27577
+    },
+    {
+      "name": "Nukleär pump 56",
+      "description": "Beskrivning 56",
+      "price": 28997,
+      "instCost": 11096
+    },
+    {
+      "name": "Miljöpump 57",
+      "description": "Beskrivning 57",
+      "price": 17294,
+      "instCost": 17150
+    },
+    {
+      "name": "Superpump 58",
+      "description": "Beskrivning 58",
+      "price": 28699,
+      "instCost": 11745
+    },
+    {
+      "name": "Miljöpump 59",
+      "description": "Beskrivning 59",
+      "price": 29924,
+      "instCost": 33495
+    },
+    {
+      "name": "Automatisk pump 60",
+      "description": "Beskrivning 60",
+      "price": 28615,
+      "instCost": 5311
+    },
+    {
+      "name": "Nukleär pump 61",
+      "description": "Beskrivning 61",
+      "price": 11906,
+      "instCost": 29627
+    },
+    {
+      "name": "Extrempump 62",
+      "description": "Beskrivning 62",
+      "price": 27373,
+      "instCost": 11932
+    },
+    {
+      "name": "Nukleär pump 63",
+      "description": "Beskrivning 63",
+      "price": 16940,
+      "instCost": 15164
+    },
+    {
+      "name": "Nukleär pump 64",
+      "description": "Beskrivning 64",
+      "price": 24598,
+      "instCost": 13770
+    },
+    {
+      "name": "Automatisk pump 65",
+      "description": "Beskrivning 65",
+      "price": 4774,
+      "instCost": 10849
+    },
+    {
+      "name": "Miljöpump 66",
+      "description": "Beskrivning 66",
+      "price": 32846,
+      "instCost": 27944
+    },
+    {
+      "name": "Miljöpump 67",
+      "description": "Beskrivning 67",
+      "price": 12477,
+      "instCost": 33511
+    },
+    {
+      "name": "Superpump 68",
+      "description": "Beskrivning 68",
+      "price": 21216,
+      "instCost": 13577
+    },
+    {
+      "name": "Nukleär pump 69",
+      "description": "Beskrivning 69",
+      "price": 7866,
+      "instCost": 21426
+    },
+    {
+      "name": "Miljöpump 70",
+      "description": "Beskrivning 70",
+      "price": 26448,
+      "instCost": 21996
+    },
+    {
+      "name": "Nukleär pump 71",
+      "description": "Beskrivning 71",
+      "price": 15399,
+      "instCost": 18132
+    },
+    {
+      "name": "Ekonomisk pump 72",
+      "description": "Beskrivning 72",
+      "price": 15815,
+      "instCost": 29380
+    },
+    {
+      "name": "Automatisk pump 73",
+      "description": "Beskrivning 73",
+      "price": 4625,
+      "instCost": 30644
+    },
+    {
+      "name": "Extrempump 74",
+      "description": "Beskrivning 74",
+      "price": 8849,
+      "instCost": 20713
+    },
+    {
+      "name": "Ekonomisk pump 75",
+      "description": "Beskrivning 75",
+      "price": 7990,
+      "instCost": 10232
+    },
+    {
+      "name": "Ekonomisk pump 76",
+      "description": "Beskrivning 76",
+      "price": 12929,
+      "instCost": 27793
+    },
+    {
+      "name": "Miljöpump 77",
+      "description": "Beskrivning 77",
+      "price": 28609,
+      "instCost": 25982
+    },
+    {
+      "name": "Ekonomisk pump 78",
+      "description": "Beskrivning 78",
+      "price": 28012,
+      "instCost": 22328
+    },
+    {
+      "name": "Ekonomisk pump 79",
+      "description": "Beskrivning 79",
+      "price": 25586,
+      "instCost": 19862
+    },
+    {
+      "name": "Nukleär pump 80",
+      "description": "Beskrivning 80",
+      "price": 32195,
+      "instCost": 27514
+    },
+    {
+      "name": "Extrempump 81",
+      "description": "Beskrivning 81",
+      "price": 29871,
+      "instCost": 22240
+    },
+    {
+      "name": "Extrempump 82",
+      "description": "Beskrivning 82",
+      "price": 24042,
+      "instCost": 30442
+    },
+    {
+      "name": "Ekonomisk pump 83",
+      "description": "Beskrivning 83",
+      "price": 15109,
+      "instCost": 8844
+    },
+    {
+      "name": "Ekonomisk pump 84",
+      "description": "Beskrivning 84",
+      "price": 18668,
+      "instCost": 29932
+    },
+    {
+      "name": "Nukleär pump 85",
+      "description": "Beskrivning 85",
+      "price": 22160,
+      "instCost": 7543
+    },
+    {
+      "name": "Automatisk pump 86",
+      "description": "Beskrivning 86",
+      "price": 24637,
+      "instCost": 32351
+    },
+    {
+      "name": "Ekonomisk pump 87",
+      "description": "Beskrivning 87",
+      "price": 30807,
+      "instCost": 10016
+    },
+    {
+      "name": "Miljöpump 88",
+      "description": "Beskrivning 88",
+      "price": 7304,
+      "instCost": 18888
+    },
+    {
+      "name": "Ekonomisk pump 89",
+      "description": "Beskrivning 89",
+      "price": 13646,
+      "instCost": 23133
+    },
+    {
+      "name": "Miljöpump 90",
+      "description": "Beskrivning 90",
+      "price": 33658,
+      "instCost": 4191
+    },
+    {
+      "name": "Extrempump 91",
+      "description": "Beskrivning 91",
+      "price": 20321,
+      "instCost": 16240
+    },
+    {
+      "name": "Nukleär pump 92",
+      "description": "Beskrivning 92",
+      "price": 16532,
+      "instCost": 17501
+    },
+    {
+      "name": "Ekonomisk pump 93",
+      "description": "Beskrivning 93",
+      "price": 6391,
+      "instCost": 8394
+    },
+    {
+      "name": "Extrempump 94",
+      "description": "Beskrivning 94",
+      "price": 25448,
+      "instCost": 23589
+    },
+    {
+      "name": "Extrempump 95",
+      "description": "Beskrivning 95",
+      "price": 14114,
+      "instCost": 15697
+    },
+    {
+      "name": "Miljöpump 96",
+      "description": "Beskrivning 96",
+      "price": 19194,
+      "instCost": 23426
+    },
+    {
+      "name": "Ekonomisk pump 97",
+      "description": "Beskrivning 97",
+      "price": 16741,
+      "instCost": 4823
+    },
+    {
+      "name": "Miljöpump 98",
+      "description": "Beskrivning 98",
+      "price": 23966,
+      "instCost": 6569
+    },
+    {
+      "name": "Extrempump 99",
+      "description": "Beskrivning 99",
+      "price": 31051,
+      "instCost": 22268
+    },
+    {
+      "name": "Automatisk pump 100",
+      "description": "Beskrivning 100",
+      "price": 4827,
+      "instCost": 15098
+    }
+  ]
+}
